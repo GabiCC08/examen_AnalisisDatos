@@ -40,6 +40,7 @@
 - Se estable una conexión con el sistema MongoDB.
 - Se extraen todos los documentos de las colecciones de la base datos *"examen"* de MongoDB.
 - Y se guardan en la base datos *"en_venta"* de CouchDB.
+
 **7. Script 7.py**
 - Se estable una conexión con el gestor de bases de datos CouchDB.
 - Se estable una conexión con el servicio de Cloud Database de MongoDB (MongoDB Atlas).
