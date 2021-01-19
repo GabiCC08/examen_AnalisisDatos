@@ -57,4 +57,4 @@
 - Se estable una conexión con el servicio de Cloud Database de MongoDB (MongoDB Atlas).
 - Se extraen todos los documentos de la coleccion *"en_venta"* de la base datos *"examen"* de MongoDB Atlas.
 - Y se guardan en el archivo *"en_venta.csv"*.
-- *Nota: Al tener diferentes documentos de diferentes fuentes, no coinciden los atributos (columnas-campos), sin embargo e guardan todos los datos.
+- *Nota: Al tener diferentes documentos de diferentes fuentes, no coinciden los atributos (columnas-campos), sin embargo se guardan todos los datos.
